@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Bianca Orban -- training -- biancaorbansmith
 
 # THANKS
 
